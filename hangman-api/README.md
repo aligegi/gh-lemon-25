@@ -1,4 +1,4 @@
 # Hangman API
 
 Un cambio
-Dos 
+Dos tres
